@@ -1,0 +1,29 @@
+:root {
+  --background-desktop-img: #{$desktop-background-light};
+  --background-mobile-img: #{$mobile-background-light};
+  --toggle-icon: #{$moon-icon};
+  --toggle-hover-icon: #{$hover-moon-icon};
+  --title-font-color: #{$title-color-light};
+  --bg-color: #{$background-light};
+  --item-bg-color: #{$item-bg-color-light};
+  --input-font-color: #{item-font-color-ligh};
+  --border-bottom-item: #{$border-bottom-light};
+  --filter-font-color: #{$border-bottom-dark};
+  --login-icon-bg: #{$check-border-color};
+  --body-background-color: #{$background-light};
+}
+
+.dark-theme {
+  --bg-color: #{$background-color-dark};
+  --background-desktop-img: #{$desktop-background-dark};
+  --background-mobile-img: #{$mobile-background-dark};
+  --toggle-icon: #{$sun-icon};
+  --toggle-hover-icon: #{$hover-sun-icon};
+  --title-font-color: #{$title-color-dark};
+  --body-background-color: #{$background-color-dark};
+  --item-bg-color: #{$item-bg-color-dark};
+  --input-font-color: #{$item-font-color-dark};
+  --border-bottom-item: #{$border-bottom-dark};
+  --filter-font-color: #{$active-filter-dark};
+  --login-icon-bg: #{$check-border-color};
+}

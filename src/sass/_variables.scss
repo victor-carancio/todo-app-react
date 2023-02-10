@@ -1,0 +1,54 @@
+//backgrounds
+$desktop-background-dark: url("../Assets/images/bg-desktop-dark.jpg");
+$desktop-background-light: url("../Assets/images/bg-desktop-light.jpg");
+$mobile-background-dark: url("../Assets/images/bg-mobile-dark.jpg");
+$mobile-background-light: url("../Assets/images/bg-mobile-light.jpg");
+
+//icons
+$moon-icon: url("../Assets/images/icon-moon.svg");
+$hover-moon-icon: url("../Assets/images/icon-moon-light.svg");
+$sun-icon: url("../Assets/images/icon-sun.svg");
+$hover-sun-icon: url("../Assets/images/icon-sun-light.svg");
+
+$check-icon: url("../Assets/images/icon-check.svg");
+
+//colors
+
+// dark
+// $Very-Light-Gray: hsl(0, 0%, 98%);
+// $Very-Light-GrayishBlue: hsl(236, 33%, 92%);
+// $Light-Grayish-Blue: hsl(233, 11%, 84%);
+// $Dark-Grayish-Blue: hsl(236, 9%, 61%);
+// $Very-Dark-Grayish-Blue: hsl(235, 19%, 35%);
+
+// light
+// $VeryDarkBlue: hsl(235, 21%, 11%);
+// $VeryDarkDesaturatedBlue: hsl(261, 24%, 19%);
+// $LightGrayishBlue: hsl(234, 39%, 85%);
+// $LightGrayishBlue: hsl(236, 33%, 92%);
+// $DarkGrayishBlue: hsl(234, 11%, 52%);
+// $VeryDarkGrayishBlue: hsl(233, 14%, 35%);
+// $VeryDarkGrayishBlue: #74c6ff;
+
+$background-light: hsl(236, 33%, 92%);
+$title-color-light: hsl(0, 0%, 98%);
+$item-bg-color-light: hsl(0, 0%, 98%);
+$item-font-completed-color-light: hsl(236, 9%, 61%);
+$item-font-color-light: hsl(235, 19%, 35%);
+$border-bottom-light: hsl(234, 39%, 85%);
+$active-filter-light: hsl(235, 19%, 35%);
+
+$background-color-dark: hsl(235, 21%, 11%);
+$title-color-dark: hsl(236, 33%, 92%);
+$item-bg-color-dark: hsl(235, 24%, 19%);
+$item-font-color-dark: hsl(234, 39%, 85%);
+$border-bottom-dark: hsl(0, 0%, 45%);
+$active-filter-dark: hsl(0, 0%, 62%);
+
+$check-border-color: hsl(240, 1%, 67%);
+
+$filter-font-color: hsl(222, 62%, 57%);
+$filter-font-color-hover: hsl(222, 58%, 49%);
+//linear color check
+
+$linear-gradient-check: linear-gradient(to right bottom, #74c6ff, #ae7ff3);
