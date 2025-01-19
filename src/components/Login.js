@@ -76,10 +76,10 @@ const Login = () => {
         </div>
 
         <div onClick={() => setUserRegister(true)} className="register-login">
-          <p>Create account</p>
+          <p>Don't have an account? Sign in</p>
         </div>
         <button type="submit" className="submit-button">
-          Login
+          Log in
         </button>
       </form>
     </section>

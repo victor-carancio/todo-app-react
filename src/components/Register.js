@@ -91,7 +91,7 @@ const Register = () => {
           />
         </div>
         <div onClick={() => setUserRegister(false)} className="register-login">
-          <p>Loggin</p>
+          <p>Already have an account? Login</p>
         </div>
         <button type="submit" className="submit-button">
           Register
