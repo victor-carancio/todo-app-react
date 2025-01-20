@@ -6,12 +6,14 @@
 body {
   font-family: "Josefin Sans", sans-serif;
   background-color: var(--body-background-color);
+  // min-height: 100vh;
   // background-color: red;
 }
 main {
   background-color: var(--body-background-color);
-  height: 90vh;
-  min-height: 90vh;
+  // height: 90vh;
+  min-height: 100vh;
+  position: relative;
 }
 
 .hide-for-mobile {
@@ -31,7 +33,6 @@ main {
   font-family: "Josefin Sans", sans-serif;
   margin: 0 auto;
   width: 100%;
-  min-height: 90vh;
   display: flex;
   flex-flow: column nowrap;
   justify-content: center;
